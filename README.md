@@ -97,7 +97,6 @@ jupyter notebook Diabetes_Risk_Segmentation.ipynb
 2. If using Google Colab:
    - Upload the notebook to Google Colab
    - Mount your Google Drive
-   - Place `diabetes.csv` in your Google Drive at `/MyDrive/diabetes.csv`
    - Run all cells sequentially
 
 ## Key Features
