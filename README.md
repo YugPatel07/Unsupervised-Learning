@@ -11,7 +11,7 @@ This project analyzes the Pima Indians Diabetes Database to accomplish two main 
 
 ## Dataset
 
-The project uses the `diabetes.csv` dataset, which contains medical diagnostic measurements for patients. The dataset includes features such as:
+The project uses the `diabetes.csv` dataset, which contains medical diagnostic measurements for patients. The dataset includes features such as;
 
 - Pregnancies
 - Glucose levels
